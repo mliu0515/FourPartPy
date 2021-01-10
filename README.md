@@ -7,7 +7,7 @@ The guitar sound is synthesized with python using a buffer and the Karplus-Stron
 Download the files and then start writing your own music using a terminal entry prompt by running "python3 inputterclass.py" in terminal or the command line. 
 
 ### Further projects from this code
-we want to make a program which will analyze the music that people enter according to the four part writing rules created by Bach. 
+We want to make a program which will analyze the music that people enter according to the four part writing rules created by Bach. 
 
 ### Authors
 Isadora White, May Liu
